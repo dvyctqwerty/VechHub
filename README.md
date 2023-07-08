@@ -5,9 +5,8 @@ making documentation...
 
 # BOOT UP THE LIBRARY
 ```lua
-[https://raw.githubusercontent.com/dvyctqwerty/VechHub/main/src.lua]
+https://raw.githubusercontent.com/dvyctqwerty/VechHub/main/src.lua
 ```
-dont copy the []
 
 Secure mode 
 ```lua
