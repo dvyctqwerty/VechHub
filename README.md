@@ -5,7 +5,7 @@ making documentation...
 
 # BOOT UP THE LIBRARY
 ```lua
-https://raw.githubusercontent.com/dvyctqwerty/VechHub/main/src.lua
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/dvyctqwerty/VechHub/main/src.lua​‌‌​‌​​‌​‌​​‌​​‌​‌​​‌​​​​‌​‌​‌‌​​‌‌‌​‌​‌​‌‌​‌‌​‌​‌‌​‌‌​​​‌​​‌​​​"))()
 ```
 
 Secure mode 
